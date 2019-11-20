@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Authentification</string>
+    <string name="itle_activity_main">MainActivity</string>
+    <string name="image_content_description">connexion</string>
+    <string name="create_account">créer un compte</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="title_activity_login_display">LoginDisplayActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="email_format_error">email incorrect</string>
+    <string name="email_or_password_empty">email et/ou le mot de passe sont obligatoire </string>
+</resources>
